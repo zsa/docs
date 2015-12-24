@@ -5,7 +5,7 @@ All about the ErgoDox EZ
 - Configuring your ErgoDox
     - [Installing a configuration](#installing-a-configuration)
     - [Keyboard configuration tools](#keyboard-configuration-tools)
-    - [Existing configurations you can examine or download](#existing-configurations)
+    - [Existing configurations you can examine or download](https://github.com/ErgoDox-EZ/docs/wiki/Existing-configurations)
     - [Write/update your own configuration (in c!)](#writeupdate-your-own-configuration (in c!))
 - Information about the ErgoDox EZ
     - [Original Crowdfunding campaign](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard)
@@ -50,17 +50,10 @@ Notes:
 - [fusion](https://github.com/ErgoDox-EZ/fusion)
     - Open source. Work in progress. Will exist soon.
 
-
 ### Existing configurations
 
-You can download these configurations and use them. Right now, there are images to preview, but once the ErgoDox configuration too.
+[Look at the list of existing configurations on the wiki](https://github.com/ErgoDox-EZ/docs/wiki/Existing-configurations)
 
-- [Seth Herr](https://github.com/sethherr/ergodox_keymaps) - mac user, lover of the control key.
-- [Default ErgoDox EZ configuration]() - what ErgoDox EZs com with
-- [Daniel Cardin's](https://tinyurl.com/hgcy39b)
-- [German Language OSX keyboard](https://github.com/jackhumbert/qmk_firmware/blob/master/keyboard/ergodox_ez/keymaps/keymap_osx_de.hex) by [sboesebeck](https://github.com/sboesebeck) ([English writeup](http://www.boesebeck.name/?p=1105), [German writeup](http://www.boesebeck.name/?p=1090))
-
-Do you have your own configuration? Please add it to this list in a pull request, it would be great to build an extensive list.
 
 
 ### Write/update your own configuration (in c!)
