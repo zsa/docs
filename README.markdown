@@ -75,7 +75,7 @@ You can still purchase one on the indiegogo page.
 
 The compact and ergonomic open-source ErgoDox mechanical keyboard, fully assembled in Taiwan in an injection-molded ABS plastic case, with:
 
-- Two independent halves connected by a 3.5mm jack cable (replace cable for custom length)
+- Two independent halves connected by a TRRS (tip, ring, ring, sleeve) cable (replace cable for custom length)
 - USB jack and starter cable (replace cable for custom length)
 a full (including flashing alternative firmware, switching keycaps, but not opening case or dunking in aquarium) 2-year manufacturer's warranty
 - A Teensy 2 (32 KB) micro-controller running QMK firmware with support for N-key rollover (NKRO), unicode input up to at least 0xfff, mouse keys, and fully customizable layouts
