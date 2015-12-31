@@ -60,9 +60,9 @@ Notes:
 
 This requires a little bit of familiarity with coding.
 
-1. Go to [github.com/jackhumbert/qmk_firmware](https://github.com/jackhumbert/qmk_firmware) and read the Readme at the base of the repository, top to bottom.
+1. Go to [github.com/jackhumbert/qmk_firmware](https://github.com/jackhumbert/qmk_firmware) and read the Readme
 2. Follow the instructions for [ergodox_ez configuration](https://github.com/jackhumbert/qmk_firmware/tree/master/keyboard/ergodox_ez)
-3. Create a repository to track your configuration and [add it to this readme](#existing-configurations)
+3. Create a repository to track your configuration and [add it to this wiki](https://github.com/ErgoDox-EZ/docs/wiki/Existing-configurations)
 
 
 ## Information about the ErgoDox EZ
