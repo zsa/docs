@@ -46,9 +46,9 @@ Notes:
 
 - [keyboard-configurator from massdrop](https://keyboard-configurator.massdrop.com/ext/ergodox)
     - Works and looks good *check the comments on that page for information about special keys, like hold-key-for-layer and media keys*
-    - Isn't open source. Doesn't provide a way to load other people's configurations into the tool.
+    - Isn't open source. Doesn't provide all options.
 - [fusion](https://github.com/ErgoDox-EZ/fusion)
-    - Open source. Work in progress. Will exist soon.
+    - Open source. Work in progress. Will and be useable soon!
 
 ### Existing configurations
 
