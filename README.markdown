@@ -58,7 +58,7 @@ Notes:
 
 ### Write/update your own configuration (in c!)
 
-This requires a little bit of familiarity with coding.
+This requires a little bit of familiarity with coding. [Check out the list of keys and their names in c](keylist.tsv)
 
 1. Go to [github.com/jackhumbert/qmk_firmware](https://github.com/jackhumbert/qmk_firmware) and read the Readme
 2. Follow the instructions for [ergodox_ez configuration](https://github.com/jackhumbert/qmk_firmware/tree/master/keyboard/ergodox_ez)

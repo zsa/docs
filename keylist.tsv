@@ -1,0 +1,276 @@
+Key Display	Description	Category	c definition	JS Keycode
+A		Alphabet	KC_A	65
+B		Alphabet	KC_B	66
+C		Alphabet	KC_C	67
+D		Alphabet	KC_D	68
+E		Alphabet	KC_E	69
+F		Alphabet	KC_F	70
+G		Alphabet	KC_G	71
+H		Alphabet	KC_H	72
+I		Alphabet	KC_I	73
+J		Alphabet	KC_J	74
+K		Alphabet	KC_K	75
+L		Alphabet	KC_L	76
+M		Alphabet	KC_M	77
+N		Alphabet	KC_N	78
+O		Alphabet	KC_O	79
+P		Alphabet	KC_P	80
+Q		Alphabet	KC_Q	81
+R		Alphabet	KC_R	82
+S		Alphabet	KC_S	83
+T		Alphabet	KC_T	84
+U		Alphabet	KC_U	85
+V		Alphabet	KC_V	86
+W		Alphabet	KC_W	87
+X		Alphabet	KC_X	88
+Y		Alphabet	KC_Y	89
+Z		Alphabet	KC_Z	90
+1		Numeric	KC_1	49
+2		Numeric	KC_2	50
+3		Numeric	KC_3	51
+4		Numeric	KC_4	52
+5		Numeric	KC_5	53
+6		Numeric	KC_6	54
+7		Numeric	KC_7	55
+8		Numeric	KC_8	56
+9		Numeric	KC_9	57
+0		Numeric	KC_0	48
+⏎	Enter	Spacing	KC_ENTER	13
+⎋	Escape	Spacing	KC_ESCAPE	27
+⌫	Backspace	Spacing	KC_BSPACE	8
+⇥	Tab	Spacing	KC_TAB	9
+⎵	Space	Spacing	KC_SPACE	32
+fn0		Fn	KC_FN0	850
+fn1		Fn	KC_FN1	851
+fn2		Fn	KC_FN2	852
+fn3		Fn	KC_FN3	853
+fn4		Fn	KC_FN4	854
+fn5		Fn	KC_FN5	855
+fn6		Fn	KC_FN6	856
+fn7		Fn	KC_FN7	857
+fn8		Fn	KC_FN8	858
+fn9		Fn	KC_FN9	859
+fn10		Fn	KC_FN10	860
+fn11		Fn	KC_FN11	861
+fn12		Fn	KC_FN12	862
+fn13		Fn	KC_FN13	863
+fn14		Fn	KC_FN14	864
+fn15		Fn	KC_FN15	865
+fn16		Fn	KC_FN16	866
+fn17		Fn	KC_FN17	867
+fn18		Fn	KC_FN18	868
+fn19		Fn	KC_FN19	869
+fn20		Fn	KC_FN20	870
+fn21		Fn	KC_FN21	871
+fn22		Fn	KC_FN22	872
+fn23		Fn	KC_FN23	873
+fn24		Fn	KC_FN24	874
+fn25		Fn	KC_FN25	875
+fn26		Fn	KC_FN26	876
+fn27		Fn	KC_FN27	877
+fn28		Fn	KC_FN28	879
+fn29		Fn	KC_FN29	880
+fn30		Fn	KC_FN30	881
+fn31		Fn	KC_FN31	882
+F1		Function keys	KC_F1	112
+F2		Function keys	KC_F2	113
+F3		Function keys	KC_F3	114
+F4		Function keys	KC_F4	115
+F5		Function keys	KC_F5	116
+F6		Function keys	KC_F6	117
+F7		Function keys	KC_F7	118
+F8		Function keys	KC_F8	119
+F9		Function keys	KC_F9	120
+F10		Function keys	KC_F10	121
+F11		Function keys	KC_F11	122
+F12		Function keys	KC_F12	123
+F13		Function keys	KC_F13	124
+F14		Function keys	KC_F14	125
+F15		Function keys	KC_F15	126
+F16		Function keys	KC_F16	127
+F17		Function keys	KC_F17	128
+F18		Function keys	KC_F18	129
+F19		Function keys	KC_F19	130
+F20		Function keys	KC_F20	131
+F21		Function keys	KC_F21	132
+F22		Function keys	KC_F22	133
+F23		Function keys	KC_F23	134
+F24		Function keys	KC_F24	135
+DF0		Layer switch	DF(0)	1100
+DF1		Layer switch	DF(1)	1101
+DF2		Layer switch	DF(2)	1102
+DF3		Layer switch	DF(3)	1103
+DF4		Layer switch	DF(4)	1104
+DF5		Layer switch	DF(5)	1105
+DF6		Layer switch	DF(6)	1106
+DF7		Layer switch	DF(7)	1107
+DF8		Layer switch	DF(8)	1108
+DF9		Layer switch	DF(9)	1109
+DF10		Layer switch	DF(10)	1110
+🔇	Mute	Media	KC_AUDIO_MUTE	800
+🔊	Volume up	Media	KC_AUDIO_VOL_UP	801
+🔉	Volume down	Media	KC_AUDIO_VOL_DOWN	802
+	Next	Media	KC_MEDIA_NEXT_TRACK	803
+	Previous	Media	KC_MEDIA_PREV_TRACK	804
+◼	Stop	Media	KC_MEDIA_STOP	805
+	Play/Pause	Media	KC_MEDIA_PLAY_PAUSE	806
+		Media	KC_MEDIA_SELECT	807
+⏏	Eject	Media	KC_MEDIA_EJECT	808
+		Media	KC_MAIL	809
+		Media	KC_CALCULATOR	810
+		Media	KC_MY_COMPUTER	811
+		Media	KC_WWW_SEARCH	812
+		Media	KC_WWW_HOME	813
+		Media	KC_WWW_BACK	814
+		Media	KC_WWW_FORWARD	815
+		Media	KC_WWW_STOP	816
+		Media	KC_WWW_REFRESH	817
+		Media	KC_WWW_FAVORITES	818
+		Media	KC_MEDIA_FAST_FORWARD	819
+		Media	KC_MEDIA_REWIND	820
+✲ 	Control	Modifiers	KC_LCTRL	17
+⇧ 	Shift	Modifiers	KC_LSHIFT	16
+⌥	Alt	Modifiers	KC_LALT	18
+⌘	Mac/windows key	Modifiers	KC_LGUI	91
+✲ 	Control	Modifiers	KC_RCTRL	700
+⇧ 	Shift	Modifiers	KC_RSHIFT	701
+⌥	Alt	Modifiers	KC_RALT	702
+⌘	Mac/windows key	Modifiers	KC_RGUI	92
+MO0		Mometary layer switch	MO(0)	1050
+MO1		Mometary layer switch	MO(1)	1051
+MO2		Mometary layer switch	MO(2)	1052
+MO3		Mometary layer switch	MO(3)	1053
+MO4		Mometary layer switch	MO(4)	1054
+MO5		Mometary layer switch	MO(5)	1055
+MO6		Mometary layer switch	MO(6)	1056
+MO7		Mometary layer switch	MO(7)	1057
+MO8		Mometary layer switch	MO(8)	1058
+MO9		Mometary layer switch	MO(9)	1059
+MO10		Mometary layer switch	MO(10)	1060
+		Mouse	KC_MS_UP	901
+		Mouse	KC_MS_DOWN	902
+		Mouse	KC_MS_LEFT	903
+		Mouse	KC_MS_RIGHT	904
+		Mouse	KC_MS_BTN1	905
+		Mouse	KC_MS_BTN2	906
+		Mouse	KC_MS_BTN3	907
+		Mouse	KC_MS_BTN4	908
+		Mouse	KC_MS_BTN5	909
+		Mouse acceleration	KC_MS_ACCEL0	914
+		Mouse acceleration	KC_MS_ACCEL1	915
+		Mouse acceleration	KC_MS_ACCEL2	916
+		Mouse wheel	KC_MS_WH_UP	910
+		Mouse wheel	KC_MS_WH_DOWN	911
+		Mouse wheel	KC_MS_WH_LEFT	912
+		Mouse wheel	KC_MS_WH_RIGHT	913
+↖	Home	Navigational	KC_HOME	36
+⇞	Page up	Navigational	KC_PGUP	33
+⌦	Delete	Navigational	KC_DELETE	46
+↘	End	Navigational	KC_END	35
+⇟	Page down	Navigational	KC_PGDOWN	34
+▶	Right arrow	Navigational	KC_RIGHT	39
+◀	Left arrow	Navigational	KC_LEFT	37
+▼	Down arrow	Navigational	KC_DOWN	40
+▲	Up arrow	Navigational	KC_UP	38
+=		Numpad	KC_KP_EQUAL	187
+/		Numpad	KC_KP_SLASH	111
+*		Numpad	KC_KP_ASTERISK	106
+-		Numpad	KC_KP_MINUS	109
++		Numpad	KC_KP_PLUS	107
+⌤	Enter	Numpad	KC_KP_ENTER	506
+1		Numpad	KC_KP_1	97
+2		Numpad	KC_KP_2	98
+3		Numpad	KC_KP_3	99
+4		Numpad	KC_KP_4	100
+5		Numpad	KC_KP_5	101
+6		Numpad	KC_KP_6	102
+7		Numpad	KC_KP_7	103
+8		Numpad	KC_KP_8	104
+9		Numpad	KC_KP_9	105
+0		Numpad	KC_KP_0	96
+.		Numpad	KC_KP_DOT	110
+		Other	KC_NO	500
+		Other	KC_ROLL_OVER	501
+		Other	KC_POST_FAIL	502
+		Other	KC_UNDEFINED	503
+-		Other	KC_MINUS	189
+`		Other	KC_GRAVE	192
+		Other	KC_CAPSLOCK	505
+		Other	KC_PSCREEN	42
+		Other	KC_LOCKING_SCROLL	137
+		Other	KC_PAUSE	19
+INS		Other	KC_INSERT	45
+NUML		Other	KC_LOCKING_NUM	136
+\		Other	KC_NONUS_BSLASH	507
+		Other	KC_APPLICATION	508
+		Other	KC_POWER	509
+		Other	KC_EXECUTE	510
+		Other	KC_HELP	47
+		Other	KC_MENU	511
+		Other	KC_SELECT	41
+		Other	KC_STOP	550
+		Other	KC_AGAIN	551
+		Other	KC_UNDO	552
+		Other	KC_CUT	553
+		Other	KC_COPY	554
+		Other	KC_PASTE	555
+		Other	KC_FIND	556
+🔇	Mute	Other	KC__MUTE	557
+🔊	Volume up	Other	KC__VOLUP	558
+🔉	Volume down	Other	KC__VOLDOWN	559
+⇪	Caps lock	Other	KC_LOCKING_CAPS	20
+,		Other	KC_KP_COMMA	560
+		Other	KC_KP_EQUAL_AS400	561
+		Other	KC_INT1	600
+		Other	KC_INT2	601
+		Other	KC_INT3	602
+		Other	KC_INT4	603
+		Other	KC_INT5	604
+		Other	KC_INT6	605
+		Other	KC_INT7	606
+		Other	KC_INT8	607
+		Other	KC_INT9	608
+		Other	KC_LANG1	609
+		Other	KC_LANG2	610
+		Other	KC_LANG3	611
+		Other	KC_LANG4	612
+		Other	KC_LANG5	613
+		Other	KC_LANG6	614
+		Other	KC_LANG7	615
+		Other	KC_LANG8	616
+		Other	KC_LANG9	617
+		Other	KC_ALT_ERASE	618
+		Other	KC_SYSREQ	619
+		Other	KC_CANCEL	620
+⌧	Clear	Other	KC_CLEAR	12
+		Other	KC_PRIOR	650
+		Other	KC_RETURN	651
+		Other	KC_SEPARATOR	652
+		Other	KC_OUT	653
+		Other	KC_OPER	654
+		Other	KC_CLEAR_AGAIN	655
+		Other	KC_CRSEL	656
+		Other	KC_EXSEL	657
+[		Punctuation	KC_LBRACKET	219
+]		Punctuation	KC_RBRACKET	221
+\		Punctuation	KC_BSLASH	220
+		Punctuation	KC_NONUS_HASH	504
+;		Punctuation	KC_SCOLON	186
+		Punctuation	KC_QUOTE	222
+,		Punctuation	KC_COMMA	188
+.		Punctuation	KC_DOT	190
+/		Punctuation	KC_SLASH	191
+		System control	KC_SYSTEM_POWER	750
+		System control	KC_SYSTEM_SLEEP	751
+		System control	KC_SYSTEM_WAKE	752
+TO0		Toggle Layer	TO(0, ON_PRESS)	1000
+TO1		Toggle Layer	TO(1, ON_PRESS)	1001
+TO2		Toggle Layer	TO(2, ON_PRESS)	1002
+TO3		Toggle Layer	TO(3, ON_PRESS)	1003
+TO4		Toggle Layer	TO(4, ON_PRESS)	1004
+TO5		Toggle Layer	TO(5, ON_PRESS)	1005
+TO6		Toggle Layer	TO(6, ON_PRESS)	1006
+TO7		Toggle Layer	TO(7, ON_PRESS)	1007
+TO8		Toggle Layer	TO(8, ON_PRESS)	1008
+TO9		Toggle Layer	TO(9, ON_PRESS)	1009
+TO10		Toggle Layer	TO(10, ON_PRESS)	1010
