@@ -26,20 +26,18 @@ First, make sure:
 
 * Your keyboard is plugged in
 * You know what the "Teensy reset button" is ([the tiny hole in the upper right](tiny_reset_button.jpg)). Alternatively, you can use the "teensy" key if it's in your keymap.
-* Download the [firmware.eep](firmware.eep) from this repository
 
 Then:
 
 1. Download and run the [Teensy Loader app](http://www.pjrc.com/teensy/loader.html)
 2. Press and release the Teensy reset button
 3. Click the "Auto" button on the upper right hand side of the Teensy-Loader window
-4. Drag and drop the '.eep' file onto the Teensy loader window. 
-5. Drag and drop the '.hex' file onto the Teensy loader window.
-6. Press and release the Teensy reset button
+4. Drag and drop the '.hex' file onto the Teensy loader window.
+5. Press and release the Teensy reset button
 
 Notes:
 
-* If this process fails in the "Auto" button stage, try dragging in a .eep and a .hex file, then pressing auto and restarting the process from the beginning.
+* If this process fails in the "Auto" button stage, try dragging in a the [firmware.eep](firmware.eep) file (from this repository) and a .hex file, then pressing auto and restarting the process from the beginning.
 * For a more detailed account, check out the [ergodox-firmware repository](https://github.com/benblazak/ergodox-firmware#load-firmware-onto-the-teensy)
 
 ### Keyboard configuration tools
