@@ -6,7 +6,7 @@ All about the ErgoDox EZ
     - [Installing a configuration](#installing-a-configuration)
     - [Keyboard configuration tools](#keyboard-configuration-tools)
     - [Existing configurations you can examine or download](https://github.com/ErgoDox-EZ/docs/wiki/Existing-configurations)
-    - [Write/update your own configuration (in c!)](#writeupdate-your-own-configuration (in c!))
+    - [Write/update your own configuration (in c!)](#writeupdate-your-own-configuration-in-c)
 - Information about the ErgoDox EZ
     - [Original Crowdfunding campaign](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard)
     - [Purchase one](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard)
@@ -45,7 +45,7 @@ Notes:
 - [keyboard-configurator from massdrop](https://keyboard-configurator.massdrop.com/ext/ergodox)
     - Works and looks good *check the comments on that page for information about special keys, like hold-key-for-layer and media keys*
     - Isn't open source. Doesn't provide all options.
-- [fusion](https://github.com/ErgoDox-EZ/fusion)
+- [Fusion](https://github.com/ErgoDox-EZ/fusion)
     - Open source. Work in progress. Will and be useable soon!
 
 ### Existing configurations
@@ -60,7 +60,7 @@ This requires a little bit of familiarity with coding. [Check out the list of ke
 
 1. Go to [github.com/jackhumbert/qmk_firmware](https://github.com/jackhumbert/qmk_firmware) and read the Readme
 2. Follow the instructions for [ergodox_ez configuration](https://github.com/jackhumbert/qmk_firmware/tree/master/keyboard/ergodox_ez)
-3. Create a repository to track your configuration and [add it to this wiki](https://github.com/ErgoDox-EZ/docs/wiki/Existing-configurations)
+3. Create a repository to track your configuration and **[add it to the wiki](https://github.com/ErgoDox-EZ/docs/wiki/Existing-configurations)**
 
 
 ## Information about the ErgoDox EZ
