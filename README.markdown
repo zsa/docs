@@ -5,7 +5,7 @@ All about the ErgoDox EZ
 - Configuring your ErgoDox
     - [Installing a configuration](#installing-a-configuration)
     - [Keyboard configuration tools](#keyboard-configuration-tools)
-    - [Existing configurations you can examine or download](https://github.com/ErgoDox-EZ/docs/wiki/Existing-configurations)
+    - [Existing configurations you can examine or download](#existing-configurations)
     - [Write/update your own configuration (in c!)](#writeupdate-your-own-configuration-in-c)
 - Information about the ErgoDox EZ
     - [Original Crowdfunding campaign](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard)
@@ -50,7 +50,15 @@ Notes:
 
 ### Existing configurations
 
-[Look at the list of existing configurations on the wiki](https://github.com/ErgoDox-EZ/docs/wiki/Existing-configurations)
+|  Image       |       |
+| ------------ | ----- |
+| ![sethmap](https://raw.githubusercontent.com/sethherr/ergodox_keymaps/master/sethmap.png) | [Seth Herr](https://github.com/sethherr/ergodox_keymaps) |
+| | [Default ErgoDox EZ configuration](https://github.com/jackhumbert/qmk_firmware/blob/master/keyboard/ergodox_ez/keymaps/default/default.hex) - what ErgoDox EZs com with |
+| | [Daniel Cardin's](https://tinyurl.com/hgcy39b) |
+| | [German Language OSX keyboard](https://github.com/jackhumbert/qmk_firmware/blob/master/keyboard/ergodox_ez/keymaps/keymap_osx_de.hex) by [sboesebeck](https://github.com/sboesebeck) ([English writeup](http://www.boesebeck.name/?p=1105), [German writeup](http://www.boesebeck.name/?p=1090)) |
+| | [@inkthink](https://github.com/inkthink/an-alt-ergodox-ez-layout) |
+
+Please add your configuration to this list!
 
 
 
@@ -60,7 +68,7 @@ This requires a little bit of familiarity with coding. [Check out the list of ke
 
 1. Go to [github.com/jackhumbert/qmk_firmware](https://github.com/jackhumbert/qmk_firmware) and read the Readme
 2. Follow the instructions for [ergodox_ez configuration](https://github.com/jackhumbert/qmk_firmware/tree/master/keyboard/ergodox_ez)
-3. Create a repository to track your configuration and **[add it to the wiki](https://github.com/ErgoDox-EZ/docs/wiki/Existing-configurations)**
+3. Create a repository to track your configuration and **submit a pull-request to add it here**
 
 
 ## Information about the ErgoDox EZ
