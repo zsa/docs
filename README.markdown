@@ -57,7 +57,7 @@ Notes:
 | | [Daniel Cardin's](https://tinyurl.com/hgcy39b) |
 | | [German Language OSX keyboard](https://github.com/jackhumbert/qmk_firmware/blob/master/keyboard/ergodox_ez/keymaps/keymap_osx_de.hex) by [sboesebeck](https://github.com/sboesebeck) ([English writeup](http://www.boesebeck.name/?p=1105), [German writeup](http://www.boesebeck.name/?p=1090)) |
 | | [@inkthink](https://github.com/inkthink/an-alt-ergodox-ez-layout) |
-
+| | [sneako](https://github.com/sneako/ergodox_keymap) |
 Please add your configuration to this list!
 
 
